@@ -8,20 +8,22 @@ const { v4: uuidv4 } = require('uuid');
 const app = express();
 const port = process.env.PORT;
 
-// Connexió a la base de dades MySQL mitjançant variables d'entorn
-const con = mysql.createConnection({
+// Connexió a la base de dades MySQL mitjançant un pool
+const pool = mysql.createPool({
   host: process.env.DB_HOST,
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
   database: process.env.DB_NAME
 });
 
-con.connect((err) => {
+// Comprovació de la connexió a MySQL
+pool.getConnection((err, connection) => {
   if (err) {
-    console.error('Error connectant a MySQL:', err);
+    console.error('Error connectant a MySQL:', err.message);
     return;
   }
-  console.log('Connectat a MySQL!');
+  console.log('Connectat a MySQL correctament!');
+  connection.release();
 });
 
 app.use(cors());
@@ -37,7 +39,7 @@ const sessions = new Map();
 app.get('/dades', (req, res) => {
   const sql = 'SELECT * FROM preguntes';
 
-  con.query(sql, (err, result) => {
+  pool.query(sql, (err, result) => {
     if (err) {
       return res.status(500).json({ error: 'Error consultant la base de dades' });
     }
