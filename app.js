@@ -79,6 +79,6 @@ app.post('/respostes', (req, res) => {
   res.json({ ok: true });
 });
 
-app.listen(port, () => {
+app.listen(port, '0.0.0.0', () => {
   console.log(`Servidor escoltant al port ${port}`);
 });
