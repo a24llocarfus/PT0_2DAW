@@ -79,6 +79,10 @@ app.post('/respostes', (req, res) => {
   res.json({ ok: true });
 });
 
-app.listen(port, '0.0.0.0', () => {
+const server = app.listen(port, '0.0.0.0', () => {
   console.log(`Servidor escoltant al port ${port}`);
+});
+
+server.on('error', (err) => {
+  console.error('Error al servidor Express:', err.message);
 });
