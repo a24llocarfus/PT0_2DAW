@@ -1,0 +1,334 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "Com a norma general, quina és la velocitat màxima permesa per a un turisme en una carretera convencional?",
+      "respostes": [
+        { "id": 1, "etiqueta": "100 km/h si és per avançar." },
+        { "id": 2, "etiqueta": "90 km/h." },
+        { "id": 3, "etiqueta": "80 km/h." },
+        { "id": 4, "etiqueta": "100 km/h si la via disposa de separació física dels dos sentits." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r301-90.svg"
+    },
+    {
+      "id": 2,
+      "pregunta": "Què indica aquest senyal de perill (P-17)?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Estrenyiment de calçada per ambdós costats." },
+        { "id": 2, "etiqueta": "Prioritat en pas estret." },
+        { "id": 3, "etiqueta": "Fi de carril per obres." },
+        { "id": 4, "etiqueta": "Entrada a un túnel o pas inferior." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p17.svg"
+    },
+    {
+      "id": 3,
+      "pregunta": "Quina és la taxa màxima d'alcoholèmia permesa en aire espirat per a un conductor durant els seus dos primers anys de permís?",
+      "respostes": [
+        { "id": 1, "etiqueta": "0,25 mg/l." },
+        { "id": 2, "etiqueta": "0,15 mg/l." },
+        { "id": 3, "etiqueta": "0,30 mg/l." },
+        { "id": 4, "etiqueta": "0,05 mg/l." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r200.svg"
+    },
+    {
+      "id": 4,
+      "pregunta": "Què prohibeix el senyal R-305?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Avançar a tots els vehicles de motor, excepte motocicletes de dues rodes sense envair el sentit contrari." },
+        { "id": 2, "etiqueta": "Avançar únicament als camions de més de 3.500 kg." },
+        { "id": 3, "etiqueta": "Canviar de carril en trams urbans." },
+        { "id": 4, "etiqueta": "Superar els 50 km/h en avançaments." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r305.svg"
+    },
+    {
+      "id": 5,
+      "pregunta": "Circulant per una autopista, és permès utilitzar la marxa enrere si ens hem passat la sortida?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Sí, sempre que no es recorrin més de 15 metres." },
+        { "id": 2, "etiqueta": "Només si es fa pel voral i amb els llums d'emergència encesos." },
+        { "id": 3, "etiqueta": "No, està totalment prohibit a autopistes i autovies." },
+        { "id": 4, "etiqueta": "Sí, si no s'apropa cap vehicle pel darrere." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_s1a.svg"
+    },
+    {
+      "id": 6,
+      "pregunta": "Què indica aquest senyal blau circular (R-400a)?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Sentit únic recomanat cap a la dreta." },
+        { "id": 2, "etiqueta": "Sentit obligatori cap a la dreta abans del senyal." },
+        { "id": 3, "etiqueta": "Pas obligatori pel costat dret d'un refugi o obstacle." },
+        { "id": 4, "etiqueta": "Giro a la dreta prohibit als camions." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r400a.svg"
+    },
+    {
+      "id": 7,
+      "pregunta": "En condicions de pluja intensa, quin efecte perillós es pot produir sobre els pneumàtics?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Efecte túnel." },
+        { "id": 2, "etiqueta": "Aquaplaning o hidroplanatge." },
+        { "id": 3, "etiqueta": "Bloqueig permanent del diferencial." },
+        { "id": 4, "etiqueta": "Subviratge per sobreescalfament del cautxú." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p19.svg"
+    },
+    {
+      "id": 8,
+      "pregunta": "Què indica el senyal d'advertiment P-15?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Proximitat d'un pas a nivell sense barreres." },
+        { "id": 2, "etiqueta": "Paviment lliscant per gel o neu." },
+        { "id": 3, "etiqueta": "Perfil irregular, ressalt, gual o mal estat del paviment." },
+        { "id": 4, "etiqueta": "Proximitat d'un tram d'obres a la calçada." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p15.svg"
+    },
+    {
+      "id": 9,
+      "pregunta": "En un tram estret de gran pendent sense senyalitzar, quin vehicle té preferència de pas si no es poden creuar?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Sempre el vehicle que baixa." },
+        { "id": 2, "etiqueta": "El vehicle que puja, llevat que pugui entrar abans en un apartador." },
+        { "id": 3, "etiqueta": "El vehicle que pesi menys." },
+        { "id": 4, "etiqueta": "El que hagi entrat primer al tram sense importar la direcció." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p25.svg"
+    },
+    {
+      "id": 10,
+      "pregunta": "Què exigeix el senyal R-1 davant d'una intersecció?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Aturar-se sempre, encara que no s'aproximi cap vehicle." },
+        { "id": 2, "etiqueta": "Cedir el pas als vehicles que s'aproximin per la via transversal." },
+        { "id": 3, "etiqueta": "Accelerar per incorporar-se abans que els altres usuaris." },
+        { "id": 4, "etiqueta": "Cedir el pas exclusivament als vehicles que vénen per la dreta." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r1.svg"
+    },
+    {
+      "id": 11,
+      "pregunta": "Quin enllumenat és obligatori encendre en circular per un túnel prou il·luminat durant el dia?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Únicament els llums de posició." },
+        { "id": 2, "etiqueta": "Posició i encreuament (curt abast)." },
+        { "id": 3, "etiqueta": "Llums de llarg abast o carretera." },
+        { "id": 4, "etiqueta": "Només els llums de circulació diürna (DRL)." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_s5.svg"
+    },
+    {
+      "id": 12,
+      "pregunta": "Què estableix el senyal rodó blau R-402?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Intersecció de sentit giratori obligatori en la direcció de les fletxes." },
+        { "id": 2, "etiqueta": "Canvi de sentit a diferent nivell." },
+        { "id": 3, "etiqueta": "Via reservada per a vehicles ecològics." },
+        { "id": 4, "etiqueta": "Prohibició de girar a l'esquerra." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r402.svg"
+    },
+    {
+      "id": 13,
+      "pregunta": "Com a norma general, quina distància lateral mínima s'ha de deixar en avançar un ciclista fora de poblat?",
+      "respostes": [
+        { "id": 1, "etiqueta": "1 metre." },
+        { "id": 2, "etiqueta": "Com a mínim 1,5 metres, podent ocupar part o la totalitat del carril contigu." },
+        { "id": 3, "etiqueta": "2 metres sense envair mai el sentit contrari." },
+        { "id": 4, "etiqueta": "No hi ha una distància fixada, depèn de la velocitat." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p22.svg"
+    },
+    {
+      "id": 14,
+      "pregunta": "Què adverteix el senyal P-21?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Proximitat d'un pas per a vianants senyalitzat." },
+        { "id": 2, "etiqueta": "Perill per la proximitat d'un lloc freqüentat per nens (escola, parc)." },
+        { "id": 3, "etiqueta": "Via exclusiva per a vianants." },
+        { "id": 4, "etiqueta": "Zona residencial amb velocitat màxima de 20 km/h." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p21.svg"
+    },
+    {
+      "id": 15,
+      "pregunta": "A quina velocitat màxima pot circular un turisme en una via urbana d'un sol carril per sentit de circulació?",
+      "respostes": [
+        { "id": 1, "etiqueta": "50 km/h." },
+        { "id": 2, "etiqueta": "30 km/h." },
+        { "id": 3, "etiqueta": "20 km/h." },
+        { "id": 4, "etiqueta": "40 km/h." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r301-30.svg"
+    },
+    {
+      "id": 16,
+      "pregunta": "Quina maniobra prohibeix el senyal quadrat blau S-22?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Girar a la dreta." },
+        { "id": 2, "etiqueta": "Canviar el sentit de la marxa." },
+        { "id": 3, "etiqueta": "Estacionar al costat esquerre." },
+        { "id": 4, "etiqueta": "Parar a la calçada." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_s22.svg"
+    },
+    {
+      "id": 17,
+      "pregunta": "Quina funció té el sistema antibloqueig de frens (ABS)?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Reduir la distància de frenada a la meitat en qualsevol superfície." },
+        { "id": 2, "etiqueta": "Evitar el bloqueig de les rodes per mantenir el control de la trajectòria." },
+        { "id": 3, "etiqueta": "Substituir l'ús del fre de servei en pendents pronunciats." },
+        { "id": 4, "etiqueta": "Evitar el patinament de les rodes motrius en arrencar." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p19.svg"
+    },
+    {
+      "id": 18,
+      "pregunta": "A quins usuaris prohibeix l'accés el senyal R-114?",
+      "respostes": [
+        { "id": 1, "etiqueta": "A tots els vehicles de dues rodes." },
+        { "id": 2, "etiqueta": "Als ciclomotors de dues i tres rodes i quadricicles lleugers." },
+        { "id": 3, "etiqueta": "Exclusivament a les bicicletes." },
+        { "id": 4, "etiqueta": "A les motocicletes sense sidecar." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r114.svg"
+    },
+    {
+      "id": 19,
+      "pregunta": "És permès avançar en un canvi de rasant de visibilitat reduïda?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Sí, tocant el clàxon prèviament." },
+        { "id": 2, "etiqueta": "No, llevat que els dos sentits estiguin clarament delimitats i no s'envaeixi el sentit contrari." },
+        { "id": 3, "etiqueta": "Sí, si el vehicle que precedeix circula a velocitat anormalment reduïda." },
+        { "id": 4, "etiqueta": "No, sota cap concepte ni circumstància." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p17.svg"
+    },
+    {
+      "id": 20,
+      "pregunta": "Què indica el senyal R-308?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Estacionament prohibit en el costat de la calçada on estigui situat." },
+        { "id": 2, "etiqueta": "Parada i estacionament prohibits." },
+        { "id": 3, "etiqueta": "Estacionament limitat gratuït per a residents." },
+        { "id": 4, "etiqueta": "Càrrega i descàrrega permesa tot el dia." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r308.svg"
+    },
+    {
+      "id": 21,
+      "pregunta": "Qui té prioritat en un pas per a vianants sense semàfor quan un vianant mostra intenció de creuar?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Els turismes que circulin per la calçada principal." },
+        { "id": 2, "etiqueta": "Sempre el vianant." },
+        { "id": 3, "etiqueta": "El vehicle si ja ha iniciat la frenada." },
+        { "id": 4, "etiqueta": "El vianant únicament si ja ha posat els dos peus sobre la calçada." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_s13.svg"
+    },
+    {
+      "id": 22,
+      "pregunta": "Què indica aquest senyal blau de servei (S-11)?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Via reservada exclusivament per a tramvies." },
+        { "id": 2, "etiqueta": "Carril reservat per a autobusos (carril bus)." },
+        { "id": 3, "etiqueta": "Parada obligatòria d'autobusos urbans." },
+        { "id": 4, "etiqueta": "Estació d'autobusos interurbans." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_s11.svg"
+    },
+    {
+      "id": 23,
+      "pregunta": "En cas de boira espessa o pluja molt intensa, quin enllumenat antiboira és obligatori encendre?",
+      "respostes": [
+        { "id": 1, "etiqueta": "El davanter exclusivament." },
+        { "id": 2, "etiqueta": "El posterior antiboira." },
+        { "id": 3, "etiqueta": "Tots dos indistintament." },
+        { "id": 4, "etiqueta": "Cap; els antiboira sempre són opcionals." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p33.svg"
+    },
+    {
+      "id": 24,
+      "pregunta": "Quina és la profunditat mínima legal que ha de tenir el dibuix principal de la banda de rodament d'un pneumàtic de turisme?",
+      "respostes": [
+        { "id": 1, "etiqueta": "1,0 mm." },
+        { "id": 2, "etiqueta": "1,6 mm." },
+        { "id": 3, "etiqueta": "2,0 mm." },
+        { "id": 4, "etiqueta": "3,0 mm." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p19.svg"
+    },
+    {
+      "id": 25,
+      "pregunta": "Què assenyala la placa P-8?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Pas a nivell amb barreres o semibarreres." },
+        { "id": 2, "etiqueta": "Pas a nivell sense barreres." },
+        { "id": 3, "etiqueta": "Proximitat d'un pont mòbil." },
+        { "id": 4, "etiqueta": "Crea d'animals domèstics." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p8.svg"
+    },
+    {
+      "id": 26,
+      "pregunta": "Està permès transportar un infant de menys de 135 cm d'alçada al seient davanter d'un vehicle?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Mai, sota cap concepte." },
+        { "id": 2, "etiqueta": "Únicament si els seients del darrere estan ocupats per altres menors o no se'n disposa." },
+        { "id": 3, "etiqueta": "Sí, sempre que utilitzi el cinturó per a adults." },
+        { "id": 4, "etiqueta": "Sí, sempre que tingui més de 3 anys." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p21.svg"
+    },
+    {
+      "id": 27,
+      "pregunta": "Què indica el senyal R-101 (fons vermell amb franja blanca horitzontal)?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Calçada tallada per obres." },
+        { "id": 2, "etiqueta": "Entrada prohibida a tota mena de vehicles." },
+        { "id": 3, "etiqueta": "Circulació prohibida en ambdós sentits." },
+        { "id": 4, "etiqueta": "Aturada obligatòria per control duaner." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_r101.svg"
+    },
+    {
+      "id": 28,
+      "pregunta": "Quin ordre de prioritat regeix entre els diferents tipus de senyals i ordres de trànsit?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Senyals verticals, semàfors, marques vials i agents." },
+        { "id": 2, "etiqueta": "Agents, senyals circumstancials, semàfors, senyals verticals i marques vials." },
+        { "id": 3, "etiqueta": "Semàfors, agents, marques vials i senyals verticals." },
+        { "id": 4, "etiqueta": "Tots tenen la mateixa validesa; preval el més restrictiu." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p1a.svg"
+    },
+    {
+      "id": 29,
+      "pregunta": "Què adverteix el senyal P-25?",
+      "respostes": [
+        { "id": 1, "etiqueta": "Circulació en sentit únic obligatori." },
+        { "id": 2, "etiqueta": "Perill per circulació en els dos sentits (doble sentit de circulació)." },
+        { "id": 3, "etiqueta": "Intersecció amb prioritat de la dreta." },
+        { "id": 4, "etiqueta": "Bifurcació d'autopista." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_p25.svg"
+    },
+    {
+      "id": 30,
+      "pregunta": "En cas de patir una avaria a l'autopista, quin dispositiu lluminós homologat es pot utilitzar per senyalitzar l'obstacle sense baixar del cotxe?",
+      "respostes": [
+        { "id": 1, "etiqueta": "El senyal lluminós d'emergència V-16 col·locat al sostre." },
+        { "id": 2, "etiqueta": "Els fars davanters en posició intermitent." },
+        { "id": 3, "etiqueta": "Una llanterna de mà manual." },
+        { "id": 4, "etiqueta": "Un llum estroboscòpic blau a la finestreta." }
+      ],
+      "imatge": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain_traffic_signal_s1a.svg"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Dependències
+node_modules/
+back/node_modules/
+# Variables d'entorn y logs
+.env
+*.log
